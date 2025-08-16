@@ -20,10 +20,6 @@ HTML5
 CSS3
 JavaScript (ES6)
 
-⚡ Getting Started
-1️⃣ Clone the repository
-git clone https://github.com/your-username/to-do-list.git
-
 2️⃣ Navigate to the project folder
 cd to-do-list
 
